@@ -2,7 +2,7 @@ YP07 電子版本來源記錄 2026/01/29
 
 A:ABBYY FineReader 16 OCR, ABBYY FineReader 16 OCR
 B:ABBYY FineReader 11 OCR, ABBYY FineReader 11 OCR
-G:Google Gemini OCR, Google Gemini OCR
+G:Google Document AI, Google Document AI
 
 版本  演培法師全集編號-冊-頁  版本   日期         卷數  典籍名稱                【朝代 譯者或作者】
 ──────────────────────────────────────────────────────────────
