@@ -1,0 +1,10 @@
+YP18 電子版本來源記錄 2026/04/28
+
+A:ABBYY FineReader 16 OCR, ABBYY FineReader 16 OCR
+B:ABBYY FineReader 11 OCR, ABBYY FineReader 11 OCR
+G:Google Document AI, Google Document AI
+
+版本  演培法師全集編號-冊-頁  版本  日期        卷數  典籍名稱            【朝代 譯者或作者】
+──────────────────────────────────────────────────────────────
+ABG   YP0023-18-p0001         V1.0  2026/04/28     4  俱舍論頌講記（下）  【民國 釋演培著】
+──────────────────────────────────────────────────────────────
