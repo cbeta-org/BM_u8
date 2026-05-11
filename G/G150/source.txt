@@ -1,6 +1,6 @@
 G150 檔案比對版本來源記錄 2024/10/14
 
-C:CBETA 人工輸入（版本一）, Input by CBETA
+C:CBETA 人工輸入, Input by CBETA
 O:CBETA OCR, OCR by CBETA
 B:CBETA B09n0043《釋量論略解》, Text as provided by CBETA B09n0043
 W:顯密文庫網站提供, Text as provided by http://read.goodweb.net.cn 
