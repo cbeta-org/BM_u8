@@ -1,0 +1,10 @@
+HC01 電子版本來源記錄 2026/11/16
+
+A:Claude Opus 5.5 Low OCR, Claude Opus 5.5 Low OCR
+B:Gemini 4 Argonh Low OCR, Gemini 4 Argonh Low OCR
+C:Gemini 3.8 Flash Medium 提供新式標點初稿, Punctuated draft text as provided by Gemini 3.8 Flash Medium
+
+版本  海潮音月刊-冊-頁  版本  日期        卷數  典籍名稱                【朝代 譯者或作者】
+──────────────────────────────────────────────────────────────
+ABC   HC0001-01-p0001   V1.0  2026/11/16  1     海潮音月刊第一卷第一期  【民國 覺社】
+──────────────────────────────────────────────────────────────
