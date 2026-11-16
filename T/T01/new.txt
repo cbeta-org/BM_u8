@@ -36321,41 +36321,41 @@ T01n0025_p0420a25W## No. 1(11)] 三聚 [Trirāsi, No. 1(12)] 世記
 T01n0025_p0420a26W## [Lokaprajñapti, No. 1(30)] 三經巴本全闕，巴
 T01n0025_p0420a27W##本凡三十四經，其中四經漢譯全闕，二經
 T01n0025_p0420a28W##收于中阿含，今揭其全表。
-T01n0025_p0420b01WP# 1.Brahmajāla             (21)梵動經
-T01n0025_p0420b02WP# 2.Sāmaññaphala         (27)沙門果經
-T01n0025_p0420b03WP# 3.Ambaṭṭha              (20)阿摩晝經
-T01n0025_p0420b04WP# 4.Soṇadaṇḍa            (22)種德經
-T01n0025_p0420b05WP# 5.Kūṭadanta             (23)究羅檀頭經
-T01n0025_p0420b06WP# 6.Mahāli                  闕
-T01n0025_p0420b07WP# 7.Jāliya                  闕
-T01n0025_p0420b08WP# 8.Kassapasīhanāda       (25)倮形梵志經
-T01n0025_p0420b09WP# 9.Poṭṭhapāda           (28)布檀婆樓經
-T01n0025_p0420b10WP#10.Subha                    闕
-T01n0025_p0420b11WP#11.Kevaddha                (24)堅固經
-T01n0025_p0420b12WP#12.Lohicca                 (29)露遮經
-T01n0025_p0420b13WP#13.Tevijjā                (26)三明經
-T01n0025_p0420b14WP#14.Mahāpadhāna           ( 1)大本經
-T01n0025_p0420b15WP#15.Mahānidāna            (13)大緣方便經
+T01n0025_p0420b01WP# 1.Brahmajāla　　　　　　 (21)梵動經
+T01n0025_p0420b02WP# 2.Sāmaññaphala　　　　 (27)沙門果經
+T01n0025_p0420b03WP# 3.Ambaṭṭha　　　　　　　(20)阿摩晝經
+T01n0025_p0420b04WP# 4.Soṇadaṇḍa　　　　　　(22)種德經
+T01n0025_p0420b05WP# 5.Kūṭadanta　　　　　　 (23)究羅檀頭經
+T01n0025_p0420b06WP# 6.Mahāli　　　　　　　　　闕
+T01n0025_p0420b07WP# 7.Jāliya　　　　　　　　　闕
+T01n0025_p0420b08WP# 8.Kassapasīhanāda　　　 (25)倮形梵志經
+T01n0025_p0420b09WP# 9.Poṭṭhapāda　　　　　 (28)布檀婆樓經
+T01n0025_p0420b10WP#10.Subha　　　　　　　　　　闕
+T01n0025_p0420b11WP#11.Kevaddha　　　　　　　　(24)堅固經
+T01n0025_p0420b12WP#12.Lohicca　　　　　　　　 (29)露遮經
+T01n0025_p0420b13WP#13.Tevijjā　　　　　　　　(26)三明經
+T01n0025_p0420b14WP#14.Mahāpadhāna　　　　　 ( 1)大本經
+T01n0025_p0420b15WP#15.Mahānidāna　　　　　　(13)大緣方便經
 T01n0025_p0420b16WP#16.Mahāparinibbāna ┐
-T01n0025_p0420b17WP#                     ├    ( 2)遊行經
-T01n0025_p0420b18WP#17.Mahāsudassana    ┘
-T01n0025_p0420b19WP#18.Janavasabha             ( 4)闍尼沙經
-T01n0025_p0420b20WP#19.Mahāgovinda            ( 3)典尊經
-T01n0025_p0420b21WP#20.Mahāsamaya             ( 9)大會經
-T01n0025_p0420c01WP#21.Sakkapaṅha             (14)釋帝桓因問經
-T01n0025_p0420c02WP#22.Mahāsatipaṭṭhāna        念處經[中阿含 (98)]
-T01n0025_p0420c03WP#23.Pāyāsi                ( 7)弊宿經
-T01n0025_p0420c04WP#24.Pāṭika (波梨子)       (15)阿[[少/免]>㝹]夷 (Anuppiya) 經
-T01n0025_p0420c05WP#25.Udumbarika (烏暫婆)     ( 8)散陀那 (Sandhāna) 經
-T01n0025_p0420c06WP#26.Cakkavatti              ( 6)轉輪聖王修行經
-T01n0025_p0420c07WP#27.Aggañña               ( 5)小緣經
-T01n0025_p0420c08WP#28.Sampasādānīya        (18)自歡喜經
-T01n0025_p0420c09WP#29.Pāsādika              (17)清淨經
-T01n0025_p0420c10WP#30.Lakkhaṇa                   三十二相經[中阿含 (59)]
-T01n0025_p0420c11WP#31.Siṅgālaka             (16)善生經
-T01n0025_p0420c12WP#32.Āṭānāṭiya              闕(阿吒那智經)
-T01n0025_p0420c13WP#33.Saṅgīti               ( 9)眾集經
-T01n0025_p0420c14WP#34.Dasuttara               (10)十上經
+T01n0025_p0420b17WP#　　　　　　　　　　 ├　　( 2)遊行經
+T01n0025_p0420b18WP#17.Mahāsudassana　　┘
+T01n0025_p0420b19WP#18.Janavasabha　　　　　　 ( 4)闍尼沙經
+T01n0025_p0420b20WP#19.Mahāgovinda　　　　　　( 3)典尊經
+T01n0025_p0420b21WP#20.Mahāsamaya　　　　　　 ( 9)大會經
+T01n0025_p0420c01WP#21.Sakkapaṅha　　　　　　 (14)釋帝桓因問經
+T01n0025_p0420c02WP#22.Mahāsatipaṭṭhāna　　　　念處經[中阿含 (98)]
+T01n0025_p0420c03WP#23.Pāyāsi　　　　　　　　( 7)弊宿經
+T01n0025_p0420c04WP#24.Pāṭika (波梨子)　　　 (15)阿[[少/免]>㝹]夷 (Anuppiya) 經
+T01n0025_p0420c05WP#25.Udumbarika (烏暫婆)　　 ( 8)散陀那 (Sandhāna) 經
+T01n0025_p0420c06WP#26.Cakkavatti　　　　　　　( 6)轉輪聖王修行經
+T01n0025_p0420c07WP#27.Aggañña　　　　　　　 ( 5)小緣經
+T01n0025_p0420c08WP#28.Sampasādānīya　　　　(18)自歡喜經
+T01n0025_p0420c09WP#29.Pāsādika　　　　　　　(17)清淨經
+T01n0025_p0420c10WP#30.Lakkhaṇa　　　　　　　　　 三十二相經[中阿含 (59)]
+T01n0025_p0420c11WP#31.Siṅgālaka　　　　　　 (16)善生經
+T01n0025_p0420c12WP#32.Āṭānāṭiya　　　　　　　闕(阿吒那智經)
+T01n0025_p0420c13WP#33.Saṅgīti　　　　　　　 ( 9)眾集經
+T01n0025_p0420c14WP#34.Dasuttara　　　　　　　 (10)十上經
 T01n0025_p0420c15WP#(以上　長阿含對照表)
 T01n0026_p0421a01_##<mj 001>
 T01n0026_p0421a02N##No. 26
